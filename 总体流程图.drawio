@@ -1,47 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T02:14:49.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="RN3b4JzSUxxTA4qRD8wC" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T02:46:44.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="gcsDhfDuGHj6Ms66ih4b" version="17.5.0" type="github">
   <diagram id="ApbCKoYDveIZBxeyygtV" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-3" target="pSq4QssJ7v5Kt4ANpzS1-4" edge="1">
+        <mxCell id="ZU-5h01KSyGy5lnn07FJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-3" target="ZU-5h01KSyGy5lnn07FJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSq4QssJ7v5Kt4ANpzS1-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-4" target="pSq4QssJ7v5Kt4ANpzS1-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-4" value="联网获取日期" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-6" target="pSq4QssJ7v5Kt4ANpzS1-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-6" target="pSq4QssJ7v5Kt4ANpzS1-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-6" value="成功？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZU-5h01KSyGy5lnn07FJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-12" target="pSq4QssJ7v5Kt4ANpzS1-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-12" value="随机生成一个日期" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-14" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSq4QssJ7v5Kt4ANpzS1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-15" target="pSq4QssJ7v5Kt4ANpzS1-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-15" value="根据日期选择单词" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-15" value="根据随机数选择单词" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pSq4QssJ7v5Kt4ANpzS1-17" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pSq4QssJ7v5Kt4ANpzS1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pSq4QssJ7v5Kt4ANpzS1-19" target="pSq4QssJ7v5Kt4ANpzS1-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,6 +57,12 @@
         </mxCell>
         <mxCell id="ZU-5h01KSyGy5lnn07FJ-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU-5h01KSyGy5lnn07FJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZU-5h01KSyGy5lnn07FJ-4" target="pSq4QssJ7v5Kt4ANpzS1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU-5h01KSyGy5lnn07FJ-4" value="生成随机数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
